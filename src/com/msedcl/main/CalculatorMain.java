@@ -8,5 +8,6 @@ public class CalculatorMain {
 		System.out.println("Addition: "+cu.addition(10, 20));
 		System.out.println("Subtraction: "+cu.subtraction(10, 20));
 		System.out.println("Multiplication: "+cu.mulultiplication(10, 20));
+		System.out.println("Multiplication: "+cu.division(10, 20));
 	}
 }
